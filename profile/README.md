@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## freemesh是一款新时代的框架 👋
+freemesh的定位不只是实现servicemesh的功能，而是基于解决现实问题的一款框架。
+可以叫她云原生框架，也可以叫异地多活框架。
+freemesh做到了基础设施功能与业务代码分离，业务开发只需轻量sdk即可接入。
+freemesh原生支持流量泳道，解决开发联调的链路问题。
+freemesh的mock组件可以通过配置的方试加入到联调环境中，架构师可直接设计系统架构，开发人员只关注实现。
